@@ -224,5 +224,8 @@ span:hover{
     height:15px;
     
 }
-
+.responsive {
+  width: 100%;
+  height: auto;
+}
       
