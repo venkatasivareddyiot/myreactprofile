@@ -11,8 +11,8 @@ class Banner extends Component {
 
                     <a href="#home"><img id="profilepic" src={logo}  width="170" height="170" alt="profilepic"/></a>
                     <h1> Hi! I'm  venkatasivareddy </h1>
-                    <p id="paragarph1"> Embedded Systems & <br/>
-                    Iot Developer</p>
+                    <p id="paragarph1"> Electronics enthusiastic & <br/>
+                   Experienced in IoT,Machine Learning and Data Sciences</p>
                     <a id="logo" href="https://www.youtube.com/watch?v=i0a-q-6HYRU&t=37s" ><img src={cse} width="30" height="30" alt="cselogo"/></a> 
                     
             </section>
